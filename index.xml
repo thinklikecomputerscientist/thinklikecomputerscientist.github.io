@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Think like computer scientist</title>
-    <link>https://thinklikecomputerscientist.github.io/index.html</link>
-    <description>Recent content on Think like computer scientist</description>
+    <title>Hi Folks</title>
+    <link>https://thinklikecomputerscientist.github.io/</link>
+    <description>Recent content on Hi Folks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thinklikecomputerscientist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 30 Aug 2021 14:58:35 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://thinklikecomputerscientist.github.io/home/</link>
+      <pubDate>Mon, 30 Aug 2021 15:39:30 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/home/</guid>
+      <description>Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
+    <item>
+      <title>Machine learning series</title>
+      <link>https://thinklikecomputerscientist.github.io/ml/init/</link>
+      <pubDate>Mon, 30 Aug 2021 14:58:35 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ml/init/</guid>
+      <description>Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
+    <item>
+      <title>Math for Machine learning seires</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/init/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/init/</guid>
+      <description>Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://thinklikecomputerscientist.github.io/about/</link>
+      <pubDate>Mon, 30 Aug 2021 14:46:42 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/about/</guid>
+      <description>Hello, My name is Tien. I come from Vietnam. You can see my profile at here</description>
+    </item>
+    
   </channel>
 </rss>
