@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ma4mls on Think like computer scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/ma4ml/</link>
+    <description>Recent content in Ma4mls on Think like computer scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 30 Aug 2021 14:57:52 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/ma4ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math for Machine learning seires</title>
+      <link>https://thinklikecomputerscientist.github.io/ma4ml/init/</link>
+      <pubDate>Mon, 30 Aug 2021 14:57:52 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/ma4ml/init/</guid>
+      <description>Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
+  </channel>
+</rss>

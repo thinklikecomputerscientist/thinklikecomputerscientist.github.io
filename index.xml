@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Think like computer scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/index.html</link>
+    <description>Recent content on Think like computer scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright><atom:link href="https://thinklikecomputerscientist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series</title>
+      <link>https://thinklikecomputerscientist.github.io/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://thinklikecomputerscientist.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
