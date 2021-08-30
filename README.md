@@ -1,1 +1,1 @@
-# thinklikecomputerscientist.github.io
+# Blog writing about Machine learning
