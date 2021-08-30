@@ -6,7 +6,17 @@
     <description>Recent content on Think like Computer Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us-vi</language>
-    <lastBuildDate>Mon, 30 Aug 2021 14:58:35 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 16:59:45 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init_post</title>
+      <link>https://thinklikecomputerscientist.github.io/dsa/init_post/</link>
+      <pubDate>Mon, 30 Aug 2021 16:59:45 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/dsa/init_post/</guid>
+      <description>Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
     <item>
       <title>Home</title>
       <link>https://thinklikecomputerscientist.github.io/home/</link>
@@ -38,7 +48,7 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://thinklikecomputerscientist.github.io/about/</link>
       <pubDate>Mon, 30 Aug 2021 14:46:42 +0700</pubDate>
       

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dsas on Think like Computer Scientist</title>
+    <link>https://thinklikecomputerscientist.github.io/dsa/</link>
+    <description>Recent content in Dsas on Think like Computer Scientist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us-vi</language>
+    <lastBuildDate>Mon, 30 Aug 2021 16:59:45 +0700</lastBuildDate><atom:link href="https://thinklikecomputerscientist.github.io/dsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init_post</title>
+      <link>https://thinklikecomputerscientist.github.io/dsa/init_post/</link>
+      <pubDate>Mon, 30 Aug 2021 16:59:45 +0700</pubDate>
+      
+      <guid>https://thinklikecomputerscientist.github.io/dsa/init_post/</guid>
+      <description>Heading 1 Subsection Subsubsection This is some text
+1  print(&amp;#34;Hello World)   Heading 2 </description>
+    </item>
+    
+  </channel>
+</rss>
